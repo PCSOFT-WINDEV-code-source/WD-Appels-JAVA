@@ -1,0 +1,86 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Appels JAVA
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Appels JAVA
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Application Java
+    internal_properties : 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
+    configuration_id : 18355782262417069546
+    type : 8
+    version : {}
+    language : 1
+ elements :
+  identifier : 0x4acda63c000b208b
+  elements :
+   -
+     name : FEN_Principale
+     identifier : 0x421ddfa5000023f8
+     internal_properties : CAAAAAgAAADPSyd7yPW97vlCnXDshe7CI5yeLp8O3TGu4+Y4Va1hV60DR6NU7LORloB6Rs4C/vLaWg==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\description.rtf
+   -
+     physical_name : .\Description.gif
+   -
+     physical_name : .\java.ico
+   -
+     physical_name : .\java.png
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAACTmW7wBGec+xwLg+UrAb+ar0DVeNeBh7TBlWf9QBo4x7DLMpyKgDD4VXg8WVTQ2maPAPAshdVaeKyYbKT0Mlzf
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Application Java
+     identifier : 0x4acda63c000e2146
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
